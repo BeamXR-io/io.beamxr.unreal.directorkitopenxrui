@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.7",
+	"FriendlyName": "BeamXR Director Kit OpenXR UI",
+	"Description": "Provides UI for interacting with the BeamXR Director Camera with an OpenXR backing framework",
+	"Category": "Streaming",
+	"CreatedBy": "BeamXR Ltd",
+	"CreatedByURL": "https://beamxr.io/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BeamXRDirectorKitOpenXRUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android"
+			]
+		}
+	]
+}
