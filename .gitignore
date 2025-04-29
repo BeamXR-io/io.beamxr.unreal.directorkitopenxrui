@@ -45,9 +45,6 @@ SourceArt/**/*.tga
 # Builds
 Build/*
 
-Plugins/BeamXRDirectorKitOpenXRUI/Binaries/
-Plugins/BeamXRDirectorKitOpenXRUI/Binaries**
-
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
